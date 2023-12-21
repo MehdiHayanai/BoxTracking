@@ -1,4 +1,4 @@
-# PA10 Computer Vision Project - Arts et Métiers ParisTech
+# PA10 BoxTracking Vision Project - Arts et Métiers ParisTech
 
 ## Description
 This project involves video processing using computer vision techniques. It includes frame analysis, optical flow tracking, and pose estimation to analyze video frames. The code also draws lines and points on the frames, providing visualized insights into the video content. This project is a part of the PA10 projects within the Arts et Métiers ParisTech training.
